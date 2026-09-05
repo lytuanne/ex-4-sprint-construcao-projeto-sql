@@ -1,4 +1,4 @@
-# Projeto PRF 2025 - Migração DuckDB para SQLite (Módulo 3)
+# Projeto PRF 2025 - Migração DuckDB para SQLite
 
 Este repositório contém a migração e consolidação do projeto de análise de dados de acidentes da Polícia Rodoviária Federal (PRF) de 2025, migrado do **DuckDB** para o **SQLite**. 
 
